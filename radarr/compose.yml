@@ -13,5 +13,5 @@ services:
       - /config:/config
       - d:/download:/downloads
       # movies
-      - e:/movies:/movies
-      - f:/movies:/movies1
+      - e:/movies:/media/movies
+      - f:/movies:/media/movies1

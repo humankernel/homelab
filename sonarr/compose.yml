@@ -13,5 +13,5 @@ services:
       - /config:/config
       - /data:/data
       # shows
-      - e:/tvshows:/tvshows
-      - f:/tvshows:/tvshows1
+      - e:/tvshows:/media/tvshows
+      - f:/tvshows:/media/tvshows1
